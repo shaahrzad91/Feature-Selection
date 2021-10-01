@@ -2,8 +2,8 @@
 
 I am going to explain various methods of feature selection in supervised Algorithms:
 1) Filter Method
-2)    -Correlation : (the relationship between the features and the labels eg . Pearson correlation)
-3)    -Univariate feature selection with SK-learn
+2)    - Correlation : (the relationship between the features and the labels eg . Pearson correlation)
+3)    - Univariate feature selection with SK-learn
 4) Wrapper Method
 5)    - Forward elimination : (iterative and greedy method)
 6)    - backward elimination
